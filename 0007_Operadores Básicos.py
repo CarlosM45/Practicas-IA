@@ -1,20 +1,20 @@
-#exponenciación
+# Exponenciación
 print(2**3)
 
-#multiplicación
+# Multiplicación
 print(2*3)
 
-#división
+# División
 print(6/3)
 
-#división entera, que devuelve un número entero ignorando los decimales necesarios para el resultado exacto
+# División entera, que devuelve un número entero ignorando los decimales necesarios para el resultado exacto
 print(6//4)
 
-#residuo, que realiza la división entera pero devuelve el residuo como resultado
-print(14%4)
+# Residuo, que realiza la división entera pero devuelve el residuo como resultado
+print(14 % 4)
 
-#suma
+# Suma
 print(-4+4)
 
-#resta
+# Resta
 print(-4-4)
