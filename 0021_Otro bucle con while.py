@@ -19,3 +19,10 @@ while numero != 0:
 # Cuando pare el bucle, imprimimos los resultados
 print("Total de números pares:", num_par)
 print("Total de números impares:", num_imp)
+
+# Finalmente, un ejemplo muy sencillo de un bucle que se ejecuta 5 veces exactas, haciendo uso de un contador
+contador = 5
+while contador != 0:
+    print("Dentro del bucle", contador)
+    contador -= 1
+print("Fuera del bucle")
